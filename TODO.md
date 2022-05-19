@@ -6,6 +6,7 @@
 ----
 
 ## Achievements
+* For each item of development, creat a branch and a pull request;
 * First day with data in API?
 * In all available range, what is the biggest value transacted.
 * In all available range, what is the samallest value transacted.
